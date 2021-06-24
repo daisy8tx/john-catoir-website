@@ -1,7 +1,9 @@
 <site>
   <preference key="PublishAction.localPath" value="/"/>
+  <preference key="PictureElement.path" value="C:\Users\Patricia Martin\Documents\Documents\FrJohnCATOIR\2021--BookofArticles"/>
+  <preference key="LinkChooser.FileChooser.path" value="C:\Users\Patricia Martin\Documents\Documents\FrJohnCATOIR\CPAAward--FrCatoir"/>
   <preference key="PublishAction.time" value="1616967182458"/>
-  <preference key="OpenPageAction.recent" value="C:\Users\Patricia Martin\sitebuilder\sites\Fr. John Catoir - NEW 2016\NEWMiniVideos.html|C:\Users\Patricia Martin\sitebuilder\sites\Fr. John Catoir - NEW 2016\PrayerSeries.html|C:\Users\Patricia Martin\sitebuilder\sites\Fr. John Catoir - NEW 2016\index.html|C:\Users\Patricia Martin\sitebuilder\sites\Fr. John Catoir - NEW 2016\Reflections.html|C:\Users\Patricia Martin\sitebuilder\sites\Fr. John Catoir - NEW 2016\CATOIR--CPAAwardWinners.html"/>
+  <preference key="OpenPageAction.recent" value="C:\Users\Patricia Martin\sitebuilder\sites\Fr. John Catoir - NEW 2016\index.html|C:\Users\Patricia Martin\sitebuilder\sites\Fr. John Catoir - NEW 2016\Mini-Videos.html|C:\Users\Patricia Martin\sitebuilder\sites\Fr. John Catoir - NEW 2016\CATOIR--CPAAwardWinners.html|C:\Users\Patricia Martin\sitebuilder\sites\Fr. John Catoir - NEW 2016\NEWMiniVideos2021.html|C:\Users\Patricia Martin\sitebuilder\sites\Fr. John Catoir - NEW 2016\CATOIR--CPAAwardWinners--2.html"/>
   <preference key="PublishAction.allFiles" value="0"/>
   <preference key="PublishAction.remotePath" value=""/>
   <preference key="FilestoreFactory.webSite" value="us.1.p9"/>
@@ -172,15 +174,15 @@
     <refers-to id="%LocalAsset:/files/1970s--62--Say_Yes_to_the_Lord.pdf"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/FrCatoir-READINGBook-190x179.jpg"/>
     <refers-to id="%LocalAsset:/files/1970s--50--Thoughts_On_Prayer.pdf"/>
-    <refers-to id="%LocalAsset:/files/1970s--82--Coping_With_Loneliness.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--67--Live_Joyfully-2.pdf"/>
+    <refers-to id="%LocalAsset:/files/1970s--82--Coping_With_Loneliness.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--71--Food_for_the_Soul.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--49--Happy_New_Year.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--75--Spiritual_Comfort.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--56--Christmas_Light.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--60--The_Art_of_Loving.pdf"/>
-    <refers-to id="%LocalAsset:/files/1970s--72--The_Way_to_Pray.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--81--Prayer_to_a_Wounded_Friend.pdf"/>
+    <refers-to id="%LocalAsset:/files/1970s--72--The_Way_to_Pray.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--57--Masks.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--80--To_Pray_is_Love.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--55--Becoming_Saints.pdf"/>
@@ -195,8 +197,8 @@
     <refers-to id="%LocalAsset:/files/1970s--54--You_re_A_Saint.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--58--Shall_We_Give_Them_Hell.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--48--A_Compelling_Reason.pdf"/>
-    <refers-to id="%LocalAsset:/files/1970s--53--The_Golden_Rule.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--61--Focus_on_Family.pdf"/>
+    <refers-to id="%LocalAsset:/files/1970s--53--The_Golden_Rule.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--86--Families_Have_a_Vocation.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--83--Forgiveness.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--66--Christmas_Giving.pdf"/>
@@ -225,8 +227,8 @@
     <refers-to id="%LocalAsset:/files/1970s--11--Formula_For_Coping.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--49--Happy_New_Year.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--29--Formula_for_Happiness.pdf"/>
-    <refers-to id="%LocalAsset:/files/1970s--56--Christmas_Light.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--75--Spiritual_Comfort.pdf"/>
+    <refers-to id="%LocalAsset:/files/1970s--56--Christmas_Light.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--60--The_Art_of_Loving.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--81--Prayer_to_a_Wounded_Friend.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--80--To_Pray_is_Love.pdf"/>
@@ -245,15 +247,15 @@
     <refers-to id="%LocalAsset:/files/1970s--58--Shall_We_Give_Them_Hell.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--48--A_Compelling_Reason.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--53--The_Golden_Rule.pdf"/>
-    <refers-to id="%LocalAsset:/files/1973--5--November29--ABurningInBoston.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--36--Making_a_Difference.pdf"/>
+    <refers-to id="%LocalAsset:/files/1973--5--November29--ABurningInBoston.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--06--Finding_Peace.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--83--Forgiveness.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--66--Christmas_Giving.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--85--A_List_of_Lenten_Give-Ups.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--84--Mary_as_our_Model.pdf"/>
-    <refers-to id="%LocalAsset:/files/1970s--42--The_Trinity.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--26--The_Happiness_of_God.pdf"/>
+    <refers-to id="%LocalAsset:/files/1970s--42--The_Trinity.pdf"/>
     <refers-to id="%ImageAssetImpl:/images/BeigeBox--1.jpg"/>
     <refers-to id="%LocalAsset:/files/1970s--21--First_Fervor.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--34--Christ_s_Mandate.pdf"/>
@@ -269,8 +271,8 @@
     <refers-to id="%LocalAsset:/files/1970s--44--A_Mighty_Merge.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--32--Friend_and_Protector.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--13--LentenPersonality.pdf"/>
-    <refers-to id="%LocalAsset:/files/1970s--73--Legacy_of_Misery.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--76--Source_of_Comfort.pdf"/>
+    <refers-to id="%LocalAsset:/files/1970s--73--Legacy_of_Misery.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--79--Remove_All_Negatives.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--12--Develop_Will_Power.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--87--Listening_to_Our_Problem_Children.pdf"/>
@@ -287,8 +289,8 @@
     <refers-to id="%LocalAsset:/files/1970s--45--Live_Joyfully-1.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--37--Life_s_Problems.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--51--Poor_in_Spirit.pdf"/>
-    <refers-to id="%LocalAsset:/files/1970s--27--The_Road_to_Holiness.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--28--Trusting_in_Jesus.pdf"/>
+    <refers-to id="%LocalAsset:/files/1970s--27--The_Road_to_Holiness.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--64--Spiritually_Balanced.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--31--Joy_in_Your_Life.pdf"/>
     <refers-to id="%LocalAsset:/files/1970s--24--Do_Something_Positive.pdf"/>
@@ -372,8 +374,8 @@
     <refers-to id="%LocalAsset:/files/How_to_Have_a_Merry_Christmas--2015.pdf"/>
     <refers-to id="%LocalAsset:/files/2018--March--Do_You_Hear_The_Voice_of_Love.pdf"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-8-inactive-84547.png"/>
-    <refers-to id="%LocalAsset:/files/2017--Dunkirk1.pdf"/>
     <refers-to id="%LocalAsset:/files/2018--August--How_To_Make_a_Good_Retreat.pdf"/>
+    <refers-to id="%LocalAsset:/files/2017--Dunkirk1.pdf"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-5-mouseOver-84500.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-9-inactive-84594.png"/>
     <refers-to id="%LocalAsset:/files/2018--April-Evolution_Revisited.pdf"/>
@@ -410,8 +412,8 @@
     <refers-to id="%LocalAsset:/files/How_Grace_Changed_My_World_Like.pdf"/>
     <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/inactive.gif"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-7-active-84531.png"/>
-    <refers-to id="%LocalAsset:/files/2018--August--BattleAgainstPedophilia.pdf"/>
     <refers-to id="%LocalAsset:/files/2019--FEB--Blessed_are_the_Peacemakers.pdf"/>
+    <refers-to id="%LocalAsset:/files/2018--August--BattleAgainstPedophilia.pdf"/>
     <refers-to id="%LocalAsset:/files/2018--August--MinistryofJOY.pdf"/>
     <refers-to id="%LocalAsset:/files/2016--Chicago--City_Of_Joy.pdf"/>
     <refers-to id="%LocalAsset:/files/2017--Humility_Reaps_Rich_Rewards2.pdf"/>
@@ -422,8 +424,8 @@
     <refers-to id="%LocalAsset:/files/2018--June--My_Vocation-B2.pdf"/>
     <refers-to id="%PageAssetImpl:/MediaMinistry.html"/>
     <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/mouseOver.gif"/>
-    <refers-to id="%LocalAsset:/files/2017--Aug23--Inner_Peace_Depends_on_You.pdf"/>
     <refers-to id="%LocalAsset:/files/2018--OCT--My_Early_Days_as_a_Priest.pdf"/>
+    <refers-to id="%LocalAsset:/files/2017--Aug23--Inner_Peace_Depends_on_You.pdf"/>
     <refers-to id="%LocalAsset:/files/2018--March--Good_Friday.pdf"/>
     <refers-to id="%LocalAsset:/files/The_Journey_toward_Christmas--2015.pdf"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-8-active-84562.png"/>
@@ -445,8 +447,8 @@
     <refers-to id="%LocalAsset:/files/2016--August--Your_Vote_Matters.pdf"/>
     <refers-to id="%PageAssetImpl:/Articles-1970s--Part2.html"/>
     <refers-to id="%LocalAsset:/files/2018--JUL--GodLovesYou.pdf"/>
-    <refers-to id="%LocalAsset:/files/2019--JUNE--Controlling_Your_Thoughts.pdf"/>
     <refers-to id="%LocalAsset:/files/2016--July21--Pope_Urges_More_Reliance_On_Conscience.pdf"/>
+    <refers-to id="%LocalAsset:/files/2019--JUNE--Controlling_Your_Thoughts.pdf"/>
     <refers-to id="%LocalAsset:/files/2018--June--Jesus_and_the_Bible.pdf"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-4-active-84469.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-6-active-84500.png"/>
@@ -464,8 +466,8 @@
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-11-active-37215.png"/>
     <refers-to id="%LocalAsset:/files/2017--Private_Conscience_and_the_Church.pdf"/>
     <refers-to id="%LocalAsset:/files/2017--Sept--God_Really_Loves_You.pdf"/>
-    <refers-to id="%LocalAsset:/files/2019--FEB--The_Birth_of_Jesus_Christ.pdf"/>
     <refers-to id="%LocalAsset:/files/2018--Oct--Meditation.pdf"/>
+    <refers-to id="%LocalAsset:/files/2019--FEB--The_Birth_of_Jesus_Christ.pdf"/>
     <refers-to id="%LocalAsset:/files/2018--April--Divine_Mercy.pdf"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-7-inactive-84515.png"/>
     <refers-to id="%LocalAsset:/files/2016--Sugar_Intake_and_Summer.pdf"/>
@@ -479,11 +481,11 @@
     <refers-to id="%LocalAsset:/files/2017--Islamic_Terrorism.pdf"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-2-active-37035.png"/>
     <refers-to id="%LocalAsset:/files/2017--My_Farewell_Column.pdf"/>
-    <refers-to id="%LocalAsset:/files/2018--Feb--Letting_Love_in_During_Lent.pdf"/>
     <refers-to id="%LocalAsset:/files/CellPhoneMania--May10-2016.pdf"/>
+    <refers-to id="%LocalAsset:/files/2018--Feb--Letting_Love_in_During_Lent.pdf"/>
     <refers-to id="%LocalAsset:/files/Spirituality_for_Today-December_12-2012.pdf"/>
-    <refers-to id="%LocalAsset:/files/2018--June--What_Does_Jesus_Ask_of_You_1_.pdf"/>
     <refers-to id="%LocalAsset:/files/2018--June--My_Father.pdf"/>
+    <refers-to id="%LocalAsset:/files/2018--June--What_Does_Jesus_Ask_of_You_1_.pdf"/>
     <refers-to id="%LocalAsset:/files/2016--The_Death_of_Prince.pdf"/>
     <refers-to id="%LocalAsset:/files/2018--Jan-18--Sir_Winston_Churchill2.pdf"/>
     <refers-to id="%ImageAssetImpl:/images/2018--GreyBOX.jpg"/>
@@ -498,16 +500,16 @@
     <refers-to id="%NavbarAsset:/navigation_bars/Home.nav"/>
     <refers-to id="%PageAssetImpl:/Articles-1970s.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-5-inactive-84484.png"/>
-    <refers-to id="%LocalAsset:/files/2017--EasterBlessings2.pdf"/>
     <refers-to id="%LocalAsset:/files/Reflections_on_Holy_Week-2016.pdf"/>
     <refers-to id="%LocalAsset:/files/2019--MARCH--Jesus_Suffered_For_Our_Sins.pdf"/>
+    <refers-to id="%LocalAsset:/files/2017--EasterBlessings2.pdf"/>
     <refers-to id="%LocalAsset:/files/2017--May_--CatholicThinking.pdf"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-6-inactive-84500.png"/>
     <refers-to id="%PageAssetImpl:/Articles.html"/>
     <refers-to id="%LocalAsset:/files/2019--JAN--The_Joy_of_Jesus.pdf"/>
     <refers-to id="%LocalAsset:/files/2019--JAN--Major_and_Minor_Addictions.pdf"/>
-    <refers-to id="%LocalAsset:/files/2018--DEC--The_Theology_Of_Christmas.pdf"/>
     <refers-to id="%LocalAsset:/files/2018--May--SuicidalThoughts.pdf"/>
+    <refers-to id="%LocalAsset:/files/2018--DEC--The_Theology_Of_Christmas.pdf"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-1-inactive-36969.png"/>
     <refers-to id="%LocalAsset:/files/2018--APR--Pope_Francis2.pdf"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-5-active-84484.png"/>
@@ -525,8 +527,8 @@
     <refers-to id="%LocalAsset:/files/2018--SEPT--Don_t_worry--BeHappy.pdf"/>
     <refers-to id="%LocalAsset:/files/2019--MARCH--Bear_Your_Cross_With_Courage.pdf"/>
     <refers-to id="%LocalAsset:/files/2018--JAN--18--Transformation_in_Christ.pdf"/>
-    <refers-to id="%LocalAsset:/files/2017--TheAmericanExperiment.pdf"/>
     <refers-to id="%LocalAsset:/files/2018--Oct--The_Marriage_Tribunal2.pdf"/>
+    <refers-to id="%LocalAsset:/files/2017--TheAmericanExperiment.pdf"/>
     <refers-to id="%ImageAssetImpl:/images/CATOIR--DrawingPortrait--BEST.jpg"/>
     <refers-to id="%LocalAsset:/files/2018--Sept--Jesus_Chose_a_Married_Priesthood.pdf"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/Articles_html.png"/>
@@ -904,7 +906,6 @@
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-2-inactive-37009.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-4-inactive-84453.png"/>
     <refers-to id="%NavbarAsset:/navigation_bars/Home.nav"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2018--GreyBOX-430x1029.jpg"/>
     <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/inactive.gif"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-5-inactive-84484.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-7-active-84531.png"/>
@@ -916,6 +917,7 @@
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-5-active-84484.png"/>
     <refers-to id="%PageAssetImpl:/MediaMinistry.html"/>
     <refers-to id="%PageAssetImpl:/videoclips.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2018--GreyBOX-430x1586.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Website--CandleC--ForWEBSITE--2016-768x158.jpg"/>
     <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/mouseOver.gif"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-439x569.jpg"/>
@@ -937,8 +939,8 @@
     <serverLastModified date="1616362143000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
     <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/active.gif"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-2-mouseOver-37048.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/NickOsterholt-CHA--WEB-185x182.jpg"/>
     <refers-to id="%PageAssetImpl:/Reflections.html"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-448x555.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-9-mouseOver-84609.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-10-mouseOver-84625.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-6-mouseOver-84515.png"/>
@@ -955,7 +957,6 @@
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-9-inactive-84594.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbs_golden_cup_broadband_and_telecoms_award-98x98.jpg"/>
     <refers-to id="%ImageAssetImpl:/images/2020Winner--InstagramGraphics.jpg"/>
-    <refers-to id="%LocalAsset:/files/WINNERS_LIST_-_Since_20173.pdf"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-233x313.jpg"/>
     <refers-to id="%ImageAssetImpl:/images/JohnPaulII_FrJohnCatoir--WebsiteHOME.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-3-active-37073.png"/>
@@ -964,9 +965,11 @@
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-450x22.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-9-active-84594.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/CPA--LOGO--BEST-130x130.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-700x67.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-231x311.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-3-inactive-37061.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-11-active-37215.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2018--GreyBOX-454x1552.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-231x120.jpg"/>
     <refers-to id="%LocalAsset:/files/2018--CPACatoirAwards--Diocese_of_Syracuse--FORCatoirWeb_SocialMedia.pdf"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/JohnPaulII_FrJohnCatoir--WebsiteHOME-161x180.jpg"/>
@@ -984,7 +987,7 @@
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-10-active-84609.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-2-active-37035.png"/>
     <refers-to id="%ImageAssetImpl:/images/GOLDSTAR--2.jpg"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-596x67.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-229x353.jpg"/>
     <refers-to id="%ImageAssetImpl:/images/BeigeBox--1.jpg"/>
     <refers-to id="%ImageAssetImpl:/images/2018--GreyBOX.jpg"/>
     <refers-to id="%PageAssetImpl:/Products.html"/>
@@ -999,9 +1002,9 @@
     <refers-to id="%NavbarAsset:/navigation_bars/Home.nav"/>
     <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/inactive.gif"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-5-inactive-84484.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2018--GreyBOX-454x1543.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-7-active-84531.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-6-inactive-84500.png"/>
+    <refers-to id="%LocalAsset:/files/2021-WINNERS--AwardsPageforWEBSITE.pdf"/>
     <refers-to id="%PageAssetImpl:/Articles.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-11-inactive-37209.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-1-inactive-36969.png"/>
@@ -1010,12 +1013,14 @@
     <refers-to id="%PageAssetImpl:/videoclips.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Website--CandleC--ForWEBSITE--2016-768x158.jpg"/>
     <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/mouseOver.gif"/>
+    <refers-to id="%ImageAssetImpl:/images/NickOsterholt-CHA--WEB.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/2020Winner--InstagramGraphics-224x415.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-448x583.jpg"/>
     <refers-to id="%LocalAsset:/files/2019--Entry--Angelus_News_Attachment-1.pdf"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-8-mouseOver-84578.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-8-active-84562.png"/>
     <refers-to id="%PageAssetImpl:/AudioClips.html"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-229x308.jpg"/>
+    <refers-to id="%LocalAsset:/files/WINNERS_LIST_-_Since_20174.pdf"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Home.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/2018--FrCatoir-PortraitPic-FB-164x243.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-453x22.jpg"/>
@@ -1982,6 +1987,8 @@
     <published date="1616360403710" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
     <serverLastModified date="1616360403000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
+  <asset id="%LocalAsset:/files/2021-WINNERS--AwardsPageforWEBSITE.pdf">
+  </asset>
   <asset id="%LocalAsset:/files/BOOK--WOMAN_TO_WOMANbyFrJohnCatoir.pdf">
     <published date="1616360416261" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
     <serverLastModified date="1616360415000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
@@ -2051,6 +2058,8 @@
   <asset id="%LocalAsset:/files/WINNERS_LIST_-_Since_20173.pdf">
     <published date="1616360312487" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
     <serverLastModified date="1616360312000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%LocalAsset:/files/WINNERS_LIST_-_Since_20174.pdf">
   </asset>
   <asset id="%LocalAsset:/files/WINNERS_LIST_1_-_Since_2017.pdf">
     <published date="1616360286853" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
@@ -2208,6 +2217,8 @@
     <published date="1616359682021" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
     <serverLastModified date="1616359681000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
+  <asset id="%ImageAssetImpl:/images/BEST--BOOKCOVER-1--Smaller.jpg">
+  </asset>
   <asset id="%ImageAssetImpl:/images/BettyHutton--Video-STILL-BEST.jpg">
   </asset>
   <asset id="%ImageAssetImpl:/images/BettyHutton--Video-STILL.jpg">
@@ -2235,6 +2246,8 @@
   <asset id="%ImageAssetImpl:/images/Book--AreYouReadyforImmortality.jpg">
     <published date="1616359675522" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
     <serverLastModified date="1616359674000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/BookAdShot--1.jpg">
   </asset>
   <asset id="%ImageAssetImpl:/images/BridgetOBoyle--2020Winner.jpg">
     <published date="1616359632003" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
@@ -2806,6 +2819,10 @@
     <published date="1616358553198" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
     <serverLastModified date="1616358552000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
+  <asset id="%ImageAssetImpl:/images/NickOsterholt-CHA--WEB.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/NickOsterholt-CHA.jpg">
+  </asset>
   <asset id="%ImageAssetImpl:/images/OurImmigrantHeritage--GRAPHIC2.jpg">
     <published date="1616967029934" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
     <serverLastModified date="1616967029000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
@@ -3113,6 +3130,7 @@
     <published date="1616441491012" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
     <serverLastModified date="1616441538000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
     <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/active.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-316x79.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-2-mouseOver-37048.png"/>
     <refers-to id="%PageAssetImpl:/Reflections.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-9-mouseOver-84609.png"/>
@@ -3122,6 +3140,7 @@
     <refers-to id="%ImageAssetImpl:/images/2017--FrJohnCatoir--ONCamera-2.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-8-inactive-84547.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-5-mouseOver-84500.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/JohnPaulII_FrJohnCatoir--WebsiteHOME-201x196.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-9-inactive-84594.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-3-active-37073.png"/>
     <refers-to id="%PageAssetImpl:/ContactUs.html"/>
@@ -3132,8 +3151,8 @@
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-241x58.jpg"/>
     <refers-to id="%LocalAsset:/files/2017--Stay_Calm.pdf"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/JesusFace-BEST-116x119.jpg"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-356x184.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-3-inactive-37061.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-266x162.jpg"/>
     <refers-to id="%ImageAssetImpl:/images/FrCatoir-OnCamera-1.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Flowers--4-93x70.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-3-mouseOver-37087.png"/>
@@ -3141,10 +3160,12 @@
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-1-active-36983.png"/>
     <refers-to id="%PageAssetImpl:/MessengerofJoy.html"/>
     <refers-to id="%ImageAssetImpl:/images/Mary--forWEBSITE_FB.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-350x64.jpg"/>
     <refers-to id="%PageAssetImpl:/AboutUs.html"/>
     <refers-to id="%PageAssetImpl:/CATOIR--CPAAwardWinners.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-275x219.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-10-active-84609.png"/>
+    <refers-to id="%ImageAssetImpl:/images/BookAdShot--1.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Catoir--DVD--Interior-144x183.jpg"/>
     <refers-to id="%ImageAssetImpl:/images/GOLDSTAR--2.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/GOLDSTAR--2-53x53.jpg"/>
@@ -3154,8 +3175,6 @@
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/GOLDSTAR--2-39x39.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-4-mouseOver-84469.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-10-inactive-84609.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-381x141.jpg"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-315x82.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-2-inactive-37009.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-4-inactive-84453.png"/>
     <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/inactive.gif"/>
@@ -3163,7 +3182,9 @@
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-600x98.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-319x67.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-11-inactive-37209.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/GOLDSTAR--2-30x30.jpg"/>
     <refers-to id="%PageAssetImpl:/MediaMinistry.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-356x193.jpg"/>
     <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/mouseOver.gif"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-8-active-84562.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Mary_Roses-142x170.jpg"/>
@@ -3174,12 +3195,12 @@
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Home.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-336x191.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Cross_Roses--AvilaRetreat--5-748x426.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-354x151.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-1-mouseOver-36996.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/GOLDSTAR--2-36x36.jpg"/>
     <refers-to id="%PageAssetImpl:/index.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-11-mouseOver-37215.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-381x67.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-528x211.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BookAdShot--1-229x224.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-741x38.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/PeopleOfJoy-Pic3-BEST-184x148.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-303x67.jpg"/>
@@ -3187,7 +3208,6 @@
     <refers-to id="%ImageAssetImpl:/images/Flowers--4.jpg"/>
     <refers-to id="%ImageAssetImpl:/images/JesusFace-BEST.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-6-active-84500.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/JohnPaulII_FrJohnCatoir--WebsiteHOME-201x225.jpg"/>
     <refers-to id="%PageAssetImpl:/Mini-Videos.html"/>
     <refers-to id="%ImageAssetImpl:/images/Website--CandleC--ForWEBSITE--2016.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Mary--forWEBSITE_FB-188x209.jpg"/>
@@ -3201,23 +3221,23 @@
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/GOLDSTAR--2-48x48.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-7-inactive-84515.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-0-inactive-49284.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-262x165.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-381x191.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-7-mouseOver-84547.png"/>
     <refers-to id="%PageAssetImpl:/PrayerSeries.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-2-active-37035.png"/>
     <refers-to id="%ImageAssetImpl:/images/GOLD_FRAME_BOX_-2.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/GOLD_FRAME_BOX_-2-271x219.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-262x161.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-231x69.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-234x69.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-315x75.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/CATOIR--DrawingPortrait--BEST-128x183.jpg"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-316x82.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-0-active-49410.png"/>
     <refers-to id="%NavbarAsset:/navigation_bars/Home.nav"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-136x54.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-5-inactive-84484.png"/>
     <refers-to id="%LocalAsset:/files/2017--EasterBlessings2.pdf"/>
     <refers-to id="%ImageAssetImpl:/images/Cross_Roses--AvilaRetreat--5.jpg"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-372x191.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/1-DVD--inHand-182x175.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-6-inactive-84500.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-740x219.jpg"/>
@@ -4253,6 +4273,7 @@
     <refers-to id="%PageAssetImpl:/MediaMinistry.html"/>
     <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/mouseOver.gif"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/FOR_WEBSITE--Graphic-195x129.jpg"/>
+    <refers-to id="%PageAssetImpl:/NEWMiniVideos2021.html"/>
     <refers-to id="%ImageAssetImpl:/images/FrCatoir--Children.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-8-active-84562.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/LydiaTalbot_FrJohnCatoir-187x138.jpg"/>
@@ -4299,7 +4320,6 @@
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-8-mouseOver-84578.png"/>
     <refers-to id="%PageAssetImpl:/AudioClips.html"/>
     <refers-to id="%ImageAssetImpl:/images/CATOIR--DrawingPortrait--BEST.jpg"/>
-    <refers-to id="%PageAssetImpl:/NEWMiniVideos.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/Mini-Videos_html.png"/>
   </asset>
   <asset id="%PageAssetImpl:/MLK-TRIBUTE--2018.html">
@@ -4382,9 +4402,7 @@
   </asset>
   <asset id="%LocalDirectoryAsset:/navigation_bars">
   </asset>
-  <asset id="%PageAssetImpl:/NEWMiniVideos.html">
-    <published date="1616966653759" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1616966672000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  <asset id="%PageAssetImpl:/NEWMiniVideos2021.html">
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-775x107.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-775x2540.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Website--CandleC--ForWEBSITE--2016-768x158.jpg"/>
@@ -4396,7 +4414,7 @@
     <refers-to id="%ImageAssetImpl:/images/CATOIR--DrawingPortrait--BEST.jpg"/>
     <refers-to id="%ImageAssetImpl:/images/GOLDSTAR--2.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/GOLDSTAR--2-53x53.jpg"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/NEWMiniVideos_html.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/NEWMiniVideos2021_html.png"/>
   </asset>
   <asset id="%PageAssetImpl:/Photos.html">
     <published date="1616362085133" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
@@ -4528,11 +4546,13 @@
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-2-mouseOver-37048.png"/>
     <refers-to id="%PageAssetImpl:/Reflections.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-9-mouseOver-84609.png"/>
+    <refers-to id="%ImageAssetImpl:/images/BEST--BOOKCOVER-1--Smaller.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-10-mouseOver-84625.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-6-mouseOver-84515.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-0-mouseOver-49427.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-4-active-84469.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-6-active-84500.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-582x2481.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-8-inactive-84547.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-5-mouseOver-84500.png"/>
     <refers-to id="%PageAssetImpl:/Mini-Videos.html"/>
@@ -4543,7 +4563,6 @@
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-3-active-37073.png"/>
     <refers-to id="%PageAssetImpl:/ContactUs.html"/>
     <refers-to id="%PageAssetImpl:/Photos.html"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeYourOwnBestFriend--DVDpic-215x189.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-9-active-84594.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/1--Graphic--GreenBox-548x234.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-3-inactive-37061.png"/>
@@ -4551,7 +4570,9 @@
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-3-mouseOver-37087.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-7-inactive-84515.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-1-active-36983.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/PeopleOfJoy--DVDPhoto-208x158.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-0-inactive-49284.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeYourOwnBestFriend--CD--pic_copy-187x167.jpg"/>
     <refers-to id="%PageAssetImpl:/MessengerofJoy.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-246x168.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-7-mouseOver-84547.png"/>
@@ -4579,6 +4600,7 @@
     <refers-to id="%PageAssetImpl:/Articles.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-11-inactive-37209.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-1-inactive-36969.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeYourOwnBestFriend--DVDpic-210x184.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-5-active-84484.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/2016--WEB--Sea--SunsetBackground--PMartin-741x605.jpg"/>
     <refers-to id="%PageAssetImpl:/MediaMinistry.html"/>
@@ -4590,11 +4612,9 @@
     <refers-to id="%ImageAssetImpl:/images/BeYourOwnBestFriend--DVDpic.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-8-mouseOver-84578.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-8-active-84562.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/PeopleOfJoy--DVDPhoto-246x194.jpg"/>
     <refers-to id="%PageAssetImpl:/AudioClips.html"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeYourOwnBestFriend--CD--pic_copy-184x160.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BEST--BOOKCOVER-1--Smaller-191x261.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Home.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-582x2109.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-1-mouseOver-36996.png"/>
     <refers-to id="%PageAssetImpl:/index.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-11-mouseOver-37215.png"/>
@@ -4822,13 +4842,9 @@
     <published date="1616357792525" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
     <serverLastModified date="1616357791000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
-  <asset id="%ImageAssetImpl:/sitebuilder/images/2018--GreyBOX-430x1029.jpg">
-    <published date="1616357794462" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1616357794000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/2018--GreyBOX-430x1586.jpg">
   </asset>
-  <asset id="%ImageAssetImpl:/sitebuilder/images/2018--GreyBOX-454x1543.jpg">
-    <published date="1616357791635" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1616357791000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/2018--GreyBOX-454x1552.jpg">
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/2018--GreyBOX-746x94.jpg">
     <published date="1616357791228" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
@@ -4938,9 +4954,7 @@
     <published date="1616357787961" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
     <serverLastModified date="1616357787000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
-  <asset id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-229x308.jpg">
-    <published date="1616357786977" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1616357786000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-229x353.jpg">
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-231x120.jpg">
     <published date="1616357787727" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
@@ -5018,9 +5032,9 @@
     <published date="1616357785413" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
     <serverLastModified date="1616357783000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
-  <asset id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-262x165.jpg">
-    <published date="1616357785038" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1616357784000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-262x161.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-266x162.jpg">
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-266x221.jpg">
     <published date="1616357784522" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
@@ -5122,13 +5136,9 @@
     <published date="1616357781444" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
     <serverLastModified date="1616357781000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
-  <asset id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-315x82.jpg">
-    <published date="1616357781303" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1616357780000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-315x75.jpg">
   </asset>
-  <asset id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-316x82.jpg">
-    <published date="1616357780960" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1616357780000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-316x79.jpg">
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-317x100.jpg">
     <published date="1616357780288" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
@@ -5202,9 +5212,11 @@
     <published date="1616357778521" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
     <serverLastModified date="1616357777000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
-  <asset id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-356x184.jpg">
-    <published date="1616357777584" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1616357777000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-350x64.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-354x151.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-356x193.jpg">
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-356x347.jpg">
     <published date="1616357778990" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
@@ -5217,10 +5229,6 @@
   <asset id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-367x153.jpg">
     <published date="1616357777693" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
     <serverLastModified date="1616357777000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-  </asset>
-  <asset id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-372x191.jpg">
-    <published date="1616357777100" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1616357776000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-378x132.jpg">
     <published date="1616357776522" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
@@ -5241,6 +5249,8 @@
   <asset id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-381x141.jpg">
     <published date="1616357777521" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
     <serverLastModified date="1616357777000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-381x191.jpg">
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-381x64.jpg">
     <published date="1616357776975" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
@@ -5266,9 +5276,7 @@
     <published date="1616357776912" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
     <serverLastModified date="1616357775000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
-  <asset id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-448x555.jpg">
-    <published date="1616357775397" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1616357775000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-448x583.jpg">
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-450x22.jpg">
     <published date="1616357776334" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
@@ -5326,9 +5334,7 @@
     <published date="1616357775725" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
     <serverLastModified date="1616357775000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
-  <asset id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-582x2109.jpg">
-    <published date="1616357773990" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1616357773000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-582x2481.jpg">
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-583x56.jpg">
     <published date="1616357774204" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
@@ -5365,6 +5371,8 @@
   <asset id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-611x98.jpg">
     <published date="1616357772474" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
     <serverLastModified date="1616357771000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-700x67.jpg">
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/BeigeBox--1-712x62.jpg">
     <published date="1616357774417" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
@@ -5430,17 +5438,15 @@
     <published date="1616966450093" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
     <serverLastModified date="1616966450000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/BEST--BOOKCOVER-1--Smaller-191x261.jpg">
+  </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/Betty_Hutton_1950s_Color_Photo-78x89.jpg">
     <published date="1616357769929" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
     <serverLastModified date="1616357769000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
-  <asset id="%ImageAssetImpl:/sitebuilder/images/BeYourOwnBestFriend--CD--pic_copy-184x160.jpg">
-    <published date="1616357789478" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1616357789000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/BeYourOwnBestFriend--CD--pic_copy-187x167.jpg">
   </asset>
-  <asset id="%ImageAssetImpl:/sitebuilder/images/BeYourOwnBestFriend--DVDpic-215x189.jpg">
-    <published date="1616357789713" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1616357789000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/BeYourOwnBestFriend--DVDpic-210x184.jpg">
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/BeYourOwnBestFriend--DVDpic-221x195.jpg">
     <published date="1616357788978" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
@@ -5473,6 +5479,8 @@
   <asset id="%ImageAssetImpl:/sitebuilder/images/Book--AreYouReadyforImmortality-187x279.jpg">
     <published date="1616357769445" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
     <serverLastModified date="1616357769000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/BookAdShot--1-229x224.jpg">
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/BridgetOBoyle--2020Winner-202x154.jpg">
     <published date="1616357770771" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
@@ -5701,6 +5709,8 @@
   <asset id="%ImageAssetImpl:/sitebuilder/images/FrMartinJenco--Captive2-108x86.jpg">
     <published date="1616357758925" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
     <serverLastModified date="1616357758000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/GOLDSTAR--2-30x30.jpg">
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/GOLDSTAR--2-35x35.jpg">
     <published date="1616357757253" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
@@ -6062,9 +6072,7 @@
     <published date="1616357751080" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
     <serverLastModified date="1616357750000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
-  <asset id="%ImageAssetImpl:/sitebuilder/images/JohnPaulII_FrJohnCatoir--WebsiteHOME-201x225.jpg">
-    <published date="1616357749843" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1616357749000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/JohnPaulII_FrJohnCatoir--WebsiteHOME-201x196.jpg">
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/JohnPaulII_FrJohnCatoir--WebsiteHOME-204x222.jpg">
     <published date="1616357749734" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
@@ -6138,13 +6146,13 @@
     <published date="1616357745828" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
     <serverLastModified date="1616357745000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/NickOsterholt-CHA--WEB-185x182.jpg">
+  </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/OurImmigrantHeritage--GRAPHIC2-110x80.jpg">
     <published date="1616357746937" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
     <serverLastModified date="1616357746000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
-  <asset id="%ImageAssetImpl:/sitebuilder/images/PeopleOfJoy--DVDPhoto-246x194.jpg">
-    <published date="1616357746015" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1616357745000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/PeopleOfJoy--DVDPhoto-208x158.jpg">
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/PeopleOfJoy-Pic3-BEST-112x83.jpg">
     <published date="1616357747156" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
@@ -6399,9 +6407,8 @@
   <asset id="%NavbarAsset:/navigation_bars/Home.nav">
     <published date="1616362124236" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
     <serverLastModified date="1616362123000" yahooId="johncatoir@yahoo.com/us.1.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/active.gif"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-2-mouseOver-37048.png"/>
-    <refers-to id="%PageAssetImpl:/Reflections.html"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/Mini-Videos.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-9-mouseOver-84609.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-10-mouseOver-84625.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-6-mouseOver-84515.png"/>
@@ -6410,54 +6417,47 @@
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-6-active-84500.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-8-inactive-84547.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-5-mouseOver-84500.png"/>
-    <refers-to id="%PageAssetImpl:/Mini-Videos.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/preview/sitebuilder/clipart/buttons/sets/gray_bar/mouseOver.gif"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/Products.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-9-inactive-84594.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-3-active-37073.png"/>
-    <refers-to id="%PageAssetImpl:/ContactUs.html"/>
-    <refers-to id="%PageAssetImpl:/Photos.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-9-active-84594.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-3-inactive-37061.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-11-active-37215.png"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/AboutUs.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-3-mouseOver-37087.png"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/Photos.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-7-inactive-84515.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-1-active-36983.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-0-inactive-49284.png"/>
-    <refers-to id="%PageAssetImpl:/MessengerofJoy.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/preview/sitebuilder/clipart/buttons/sets/gray_bar/inactive.gif"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-7-mouseOver-84547.png"/>
-    <refers-to id="%PageAssetImpl:/AboutUs.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-10-active-84609.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-2-active-37035.png"/>
-    <refers-to id="%PageAssetImpl:/Products.html"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/AudioClips.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-4-mouseOver-84469.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-10-inactive-84609.png"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/MessengerofJoy.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-0-active-49410.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-2-inactive-37009.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-4-inactive-84453.png"/>
-    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/inactive.gif"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-5-inactive-84484.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-7-active-84531.png"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/videoclips.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-6-inactive-84500.png"/>
-    <refers-to id="%PageAssetImpl:/Articles.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-11-inactive-37209.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-1-inactive-36969.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-5-active-84484.png"/>
-    <refers-to id="%PageAssetImpl:/MediaMinistry.html"/>
-    <refers-to id="%PageAssetImpl:/videoclips.html"/>
-    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/mouseOver.gif"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/Reflections.html"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/index.html"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/ContactUs.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-8-mouseOver-84578.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/preview/sitebuilder/clipart/buttons/sets/gray_bar/active.gif"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-8-active-84562.png"/>
-    <refers-to id="%PageAssetImpl:/AudioClips.html"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/MediaMinistry.html"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/Articles.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-1-mouseOver-36996.png"/>
-    <refers-to id="%PageAssetImpl:/index.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-11-mouseOver-37215.png"/>
-    <refers-to id="%NavbarAsset:/navigation_bars/Home.nav"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Home.png"/>
-    <refers-to id="%NavbarAsset:/navigation_bars/Home.nav"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Home.png"/>
-    <refers-to id="%NavbarAsset:/navigation_bars/Home.nav"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Home.png"/>
-    <refers-to id="%NavbarAsset:/navigation_bars/Home.nav"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Home.png"/>
     <refers-to id="%NavbarAsset:/navigation_bars/Home.nav"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Home.png"/>
     <refers-to id="%NavbarAsset:/navigation_bars/Home.nav"/>
