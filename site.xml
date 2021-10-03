@@ -3,7 +3,7 @@
   <preference key="PictureElement.path" value="C:\Users\Patricia Martin\Documents\Documents\FrJohnCATOIR\2021--BookofArticles"/>
   <preference key="LinkChooser.FileChooser.path" value="C:\Users\Patricia Martin\Documents\Documents\FrJohnCATOIR\CPAAward--FrCatoir"/>
   <preference key="PublishAction.time" value="1616967182458"/>
-  <preference key="OpenPageAction.recent" value="C:\Users\Patricia Martin\sitebuilder\sites\Fr. John Catoir - NEW 2016\index.html|C:\Users\Patricia Martin\sitebuilder\sites\Fr. John Catoir - NEW 2016\Mini-Videos.html|C:\Users\Patricia Martin\sitebuilder\sites\Fr. John Catoir - NEW 2016\CATOIR--CPAAwardWinners.html|C:\Users\Patricia Martin\sitebuilder\sites\Fr. John Catoir - NEW 2016\NEWMiniVideos2021.html|C:\Users\Patricia Martin\sitebuilder\sites\Fr. John Catoir - NEW 2016\CATOIR--CPAAwardWinners--2.html"/>
+  <preference key="OpenPageAction.recent" value="C:\Users\Patricia Martin\sitebuilder\sites\Fr. John Catoir - NEW 2016\index.html|C:\Users\Patricia Martin\sitebuilder\sites\Fr. John Catoir - NEW 2016\PrayerSeries.html|C:\Users\Patricia Martin\sitebuilder\sites\Fr. John Catoir - NEW 2016\Mini-Videos.html|C:\Users\Patricia Martin\sitebuilder\sites\Fr. John Catoir - NEW 2016\CATOIR--CPAAwardWinners.html|C:\Users\Patricia Martin\sitebuilder\sites\Fr. John Catoir - NEW 2016\NEWMiniVideos2021.html"/>
   <preference key="PublishAction.allFiles" value="0"/>
   <preference key="PublishAction.remotePath" value=""/>
   <preference key="FilestoreFactory.webSite" value="us.1.p9"/>
@@ -6458,6 +6458,8 @@
     <refers-to id="%PageAssetImpl:/sitebuilder/preview/Articles.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-1-mouseOver-36996.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Home-11-mouseOver-37215.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Home.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Home.png"/>
     <refers-to id="%NavbarAsset:/navigation_bars/Home.nav"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Home.png"/>
     <refers-to id="%NavbarAsset:/navigation_bars/Home.nav"/>
